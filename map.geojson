@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "map",
+"features": [
+{ "type": "Feature", "id": 0, "properties": { "Nama": "Jakarta", "Populasi": "11.135.191", "Luas": "661,5 ", "Tahun": 2024, "GDP": 21.166 }, "geometry": { "type": "Point", "coordinates": [ 106.823918636791234, -6.18024299038396 ] } },
+{ "type": "Feature", "id": 1, "properties": { "Nama": "Depok", "Populasi": "1.967.831", "Luas": "200,3", "Tahun": 2024, "GDP": 2.678 }, "geometry": { "type": "Point", "coordinates": [ 106.816349136220879, -6.411557313760937 ] } },
+{ "type": "Feature", "id": 2, "properties": { "Nama": "Bogor", "Populasi": "5.664.537", "Luas": "2.991,78", "Tahun": 2024, "GDP": 3.493 }, "geometry": { "type": "Point", "coordinates": [ 106.797340401587235, -6.595170417959451 ] } },
+{ "type": "Feature", "id": 3, "properties": { "Nama": "Tanggerang", "Populasi": "1.927.815", "Luas": "1.001,86", "Tahun": 2024, "GDP": 6.949 }, "geometry": { "type": "Point", "coordinates": [ 106.635385374409395, -6.177586144741369 ] } },
+{ "type": "Feature", "id": 4, "properties": { "Nama": "Tanggerang Selatan", "Populasi": "1.429.529", "Luas": "164,86", "Tahun": 2024, "GDP": 4.921 }, "geometry": { "type": "Point", "coordinates": [ 106.708754520670311, -6.324383952499986 ] } },
+{ "type": "Feature", "id": 5, "properties": { "Nama": "Bekasi", "Populasi": "2.526.133", "Luas": "204,6", "Tahun": 2024, "GDP": 2.971 }, "geometry": { "type": "Point", "coordinates": [ 106.987825785588143, -6.243246044595665 ] } }
+]
+}
